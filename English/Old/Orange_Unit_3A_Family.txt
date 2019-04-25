@@ -1,0 +1,51 @@
+flirt with smb/кокетничать с кем-то/0/1
+not see eye to eye with/расходиться во взглядах/0/1
+go into retirement/выходить на пенсию(по-длинному)/0/1
+a stepmother/сводная мама/0/1
+adore/обожать/0/1
+be on the same wavelength as/одинаково думать, понимать друг друга с полуслова/0/1
+a son-in-law/муж дочери/0/1
+immediate family/ближайшие родственники/0/1
+have a lot in common with/иметь много общего с/0/1
+nag smb about smth/придираться, ворчать на кого-то из-за чего-то/0/1
+nappies/подгузники/0/1
+warn smb about smth/предупредить кого-то о чём-то/0/1
+a marriage/свадьба/0/1
+look down to/относиться с презением/0/1
+a stepbrother/сводный брат/0/1
+elderly/престарелый, преклонного возраста/0/1
+flatter smb/льстить кому-то/0/1
+a kid/ребёнок/0/1
+tease smb about smth/дразнить, издеваться над кем-то за что-то/0/1
+respect/уважать/0/1
+a sister-in-law/невестка(жена брата), заловка(сестра мужа), свояченица(сестра жены)/0/1
+extended family/расширенная, большая семья/0/1
+feel sory for/сожалеть, чувствовать себя несчастным/0/1
+a walking stick/тросточка/0/1
+retire/выходить на пенсию(по-короткому)/0/1
+admire/восхищаться/0/1
+despise/презирать, гнушаться/0/1
+a brother-in-law/зять, шурин(брат жены), свояк(муж сестры жены), деверь(брат мужа)/0/1
+envy/завидовать/0/1
+white hair/белые волосы/0/1
+boast to smb about smth/хвастаться кому-то про что-то/0/1
+a toddler/ребёнок, начинающий ходить/0/1
+have nothing in common with/не иметь ничего общего с/0/1
+tell smb of for smth/отчитывать кого-то за что-то конкретное/0/1
+grey hair/поседевшие волосы/0/1
+wrinkles/морщины/0/1
+praise smb for smth/прославлять, хвалить кого-то за что-то/0/1
+a career/карьера/0/1
+be very close to/быть близким/0/1
+look up to/относиться с почтением/0/1
+infancy/младенчество/0/1
+adulthood/взрослость/0/1
+bicker with smb/пререкаться, ссориться с кем-то/0/1
+a mother-in-law/тёща/0/1
+confide in smb about smth/открыться, поведать кому-то о чём-то/0/1
+lecture smb about smth/учить, читать нравоучения кому-то про что-то просто так/0/1
+childhood/детство/0/1
+insult smb/обижать кого-то/0/1
+trust/доверять/0/1
+adolescence/юность/0/1
+an old age/старость/0/1

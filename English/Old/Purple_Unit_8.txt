@@ -1,0 +1,86 @@
+self-catering/самообслуживание/1/10
+an arrivals hall/зал прибытия/4/10
+a grief/горе/0/10
+an aisle/проход между сиденьями/4/10
+a hygiene/гигиена/4/10
+a hard shoulder/обочина дороги/3/10
+restyle/заново проектировать/2/8
+think ahead/думать наперед/5/10
+wooded/лесистый/3/10
+chilled/охлаждённый/4/10
+a carriage/вагон/4/10
+get about/получить/1/10
+wobbly/шаткий/1/10
+a disgrace/бесчестие/1/8
+ASAP/как можно скорее/4/10
+a cabin/кабина/5/10
+a discontent/недовольство/1/10
+a runway/взлётно-посадочная полоса/4/10
+end up/завершить/3/10
+intrepid/бесстрашный/0/10
+let someone down/подвести кого-то/1/10
+manufacture/производить/4/10
+a check-in desk/стойка регистрации/3/10
+medical supplies/медикаменты/3/10
+a platform/платформа/5/10
+lethal/смертельный, летальный/5/10
+land/приземляться/3/8
+an exhaustion/истошение/2/10
+an anaconda/анаконда/4/10
+a viper/гадюка/3/10
+adventurous/предприимчевый/2/10
+a route/маршрут/5/10
+a taxi rank/стоянка такси/5/10
+a ticket inspector/контроллёр/3/10
+a boarding pass/посадочный талон/5/10
+a locker/шкафчик/2/10
+set off/отправляться/3/10
+a mosquito/москит, комар/5/10
+turbulence/турбулентность/4/10
+a backrest/спинка/3/10
+a cove/бухточка/1/10
+a ticket office/билетная касса/5/10
+a duty-free shop/магазин беспошлинной торговли/2/10
+overhead/верхний, над головой/5/10
+facilities/оборудование/3/10
+an explorer/исследователь/5/10
+gruelling/изнурительный/1/10
+a source/источник/2/8
+a departure gate/выход на посадку/4/10
+an electric eel/электрический угорь/3/10
+disqualify/дисквалифицировать/4/10
+a seat belt/ремень безопасности/4/10
+a complaint/жалоба/4/10
+a passport controle/пасспортный контроль/3/8
+an economy class/экономический класс/3/10
+a buffet car/вагон-ресторан/2/10
+disembark/высаживаться/3/10
+unreliable/ненадёжный/3/10
+set sail/поднимать паруса, установить паруса/4/10
+colloquial/разговорный/2/10
+notorious/печально известный/2/10
+threatening/угрожающий/0/10
+a gap year/год между школой и университетом/3/8
+switched on/осознавая, думая о/1/10
+look out for/следить за/3/10
+sort something out/сорвать что-то/2/8
+an expedition/экспедиция/4/10
+a captain/капитан/4/10
+DIY/сделай сам/4/10
+a waiting room/зал ожидания/2/10
+take off/взлетать/4/10
+breathtaking/захватывающий/1/10
+an effort/усилие/2/8
+a hand luggage/ручная кладь/4/10
+urban/городской/4/10
+unleaded/неэтилированный/2/8
+a petrol station/АЗС/4/10
+warn/предупреждать/4/10
+a luggage rack/багажная полка/0/10
+an excursion/экскурсия/4/10
+trek/пересекать/2/10
+a baggage reclaim/выдача багажа/2/10
+a pedal/педаль/2/8
+remote/удалённый/2/8
+a headland/мыс/0/10
+a mate/приятель/4/10

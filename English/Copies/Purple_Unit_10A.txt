@@ -1,0 +1,55 @@
+﻿a buscer/уличный музыкант
+a DJ/диджей
+a jazz band/джаз-группа
+an orchestra/оркестр
+a rock band/рок-группа
+a choir/хор
+a folk group/фолк-группа
+an opera singer/оперный певец
+a rapper/рэпер
+a string quartet/струнный квартет
+an aria/ария
+beat/бит, такт, бой
+chords/аккорды
+a chorus/припев, хор
+in chorus/хором
+harmony/гармония
+lyrics/текст песни
+melody/мелодия
+a movement/действие, часть музыкального произведения
+a solo/сольная партия
+a symphony/симфония
+a musician/музыкант
+a composer/композитор
+a singer/певец
+a conductor/дирижёр
+an artist/художник(а не артист)
+a painter/художник
+a sculptor/скульптор
+a novelist/романист, прозаик
+a writer/писатель
+a poet/поэт
+a playwright/драматург
+a scriptwriter/сценарист
+an actor/актёр
+an actress/актриса
+a director/режисёр
+a drama company/драматическя компания
+a haunted house/дом с привидениями
+auditions/прослушивания
+a spouse/супруг(а), муж, жена
+approximately/примерно
+on a first-come-first-served basis/по принципу кто первый, тому и достанется
+play music/играть музыку
+perform music/играть музыку(представлять)
+compose music/сочинять музыку(как композитор)
+write music/писать музыку
+listen to music/слушать музыку
+download music/скачать музыку
+record music/записывать музыку
+make music/делать музыку
+put on music/включить, поставить музыку
+set something to music/переложить что-то на музыку
+a viola/альт
+a cello/виолончель
+a piece of music/музыкальное произведение

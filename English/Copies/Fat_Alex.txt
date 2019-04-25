@@ -1,0 +1,17 @@
+food/еда
+salad/салат
+sandwich/сэндвич
+pizza/пицца
+milkshake/молочный коктейль
+everything/всё
+but/но
+chair/стул
+sofa/диван
+wardrobe/шкаф
+bed/кровать
+table/стол
+drawer/тумбочка
+on/на
+under/под
+behind/за
+in/в

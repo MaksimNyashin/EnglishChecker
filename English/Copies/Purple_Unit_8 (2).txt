@@ -1,0 +1,86 @@
+adventurous/предприимчевый/2/4/0
+an aisle/проход между сиденьями/4/4/1
+an anaconda/анаконда/3/4/2
+an arrivals hall/зал прибытия/4/4/3
+ASAP/как можно скорее/4/4/4
+a backrest/спинка/3/4/5
+a baggage reclaim/выдача багажа/2/4/6
+a boarding pass/посадочный талон/4/4/7
+breathtaking/захватывающий/1/4/8
+a buffet car/вагон-ресторан/2/4/9
+a cabin/кабина/4/4/10
+a captain/капитан/4/4/11
+a carriage/вагон/4/4/12
+a check-in desk/стойка регистрации/3/4/13
+chilled/охлаждённый/4/4/14
+colloquial/разговорный/2/4/15
+a complaint/жалоба/4/4/16
+a cove/бухточка/1/4/17
+a departure gate/выход на посадку/4/4/18
+a discontent/недовольство/1/4/19
+disembark/высаживаться/3/4/20
+a disgrace/бесчестие/1/2/21
+disqualify/дисквалифицировать/3/4/22
+DIY/сделай сам/4/4/23
+a duty-free shop/магазин беспошлинной торговли/2/4/24
+an economy class/экономический класс/3/4/25
+an effort/усилие/2/2/26
+an electric eel/электрический угорь/3/4/27
+end up/завершить/3/4/28
+an excursion/экскурсия/4/4/29
+an exhaustion/истошение/2/4/30
+an expedition/экспедиция/4/4/31
+an explorer/исследователь/4/4/32
+facilities/оборудование/3/4/33
+a gap year/год между школой и университетом/2/2/34
+get about/получить/1/4/35
+a grief/горе/0/4/36
+gruelling/изнурительный/1/4/37
+a hand luggage/ручная кладь/4/4/38
+a hard shoulder/обочина дороги/3/4/39
+a headland/мыс/0/4/40
+a hygiene/гигиена/4/4/41
+intrepid/бесстрашный/0/4/42
+land/приземляться/2/2/43
+let someone down/подвести кого-то/1/4/44
+lethal/смертельный, летальный/4/4/45
+a locker/шкафчик/2/4/46
+look out for/следить за/3/4/47
+a luggage rack/багажная полка/0/4/48
+manufacture/производить/4/4/49
+a mate/приятель/4/4/50
+medical supplies/медикаменты/3/4/51
+a mosquito/москит, комар/4/4/52
+notorious/печально известный/2/4/53
+overhead/верхний, над головой/4/4/54
+a passport controle/пасспортный контроль/2/2/55
+a pedal/педаль/2/2/56
+a petrol station/АЗС/4/4/57
+a platform/платформа/4/4/58
+remote/удалённый/2/2/59
+restyle/заново проектировать/2/2/60
+a route/маршрут/4/4/61
+a runway/взлётно-посадочная полоса/4/4/62
+a seat belt/ремень безопасности/4/4/63
+self-catering/самообслуживание/1/4/64
+set off/отправляться/3/4/65
+set sail/поднимать паруса, установить паруса/4/4/66
+sort something out/сорвать что-то/2/2/67
+a source/источник/2/2/68
+switched on/осознавая, думая о/1/4/69
+take off/взлетать/4/4/70
+a taxi rank/стоянка такси/4/4/71
+think ahead/думать наперед/4/4/72
+threatening/угрожающий/0/4/73
+a ticket inspector/контроллёр/3/4/74
+a ticket office/билетная касса/4/4/75
+trek/пересекать/2/4/76
+turbulence/турбулентность/3/4/77
+unleaded/неэтилированный/2/2/78
+unreliable/ненадёжный/3/4/79
+urban/городской/4/4/80
+a viper/гадюка/3/4/81
+a waiting room/зал ожидания/2/4/82
+warn/предупреждать/4/4/83
+wobbly/шаткий/1/4/84
+wooded/лесистый/3/4/85

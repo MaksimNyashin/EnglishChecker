@@ -1,0 +1,49 @@
+to inf/agree
+to inf/decide
+to inf/fail
+to inf/hope
+to inf/offer
+to inf/pretend (притворяться)
+to inf/refuse
+to inf/seem (казаться)
+ing/avoid
+ing/can't help (не мочь удеожаться)	
+ing/can't stand
+ing/consider (рассматривать)
+ing/deny
+ing/enjoy
+ing/feel like (быть склонным)
+ing/finish
+ing/give up
+ing/imagine
+ing/keep (on) (держать, продолжать)
+ing/miss
+ing/practise
+ing/risk
+ing/spend (time)
+ing/suggest
+ing/forget (I would never forget something)
+to inf/forget (I forgot something)
+ing/go on (=continue)
+to inf/go on (=continue with purpose)
+ing/regret (about past)
+to inf/regret (about something bad)
+ing/remember (I remember that i did it)
+to inf/remember (=don't forget)
+ing/stop (an action)
+to inf/stop (moving with purpose)
+ing/try (try once)
+to inf/try (try very hard)
+object + to inf/allow
+object + to inf/ask
+object + to inf/command
+object + to inf/dare (сметь)
+object + to inf/enable (включить)
+object + to inf/encourage (поощрять)
+object + to inf/expect
+object + to inf/forbid (запретить)
+object + to inf/force (заставлять)
+object + to inf/get
+object + to inf/inspire
+object + to inf/invite
+object + to inf/order

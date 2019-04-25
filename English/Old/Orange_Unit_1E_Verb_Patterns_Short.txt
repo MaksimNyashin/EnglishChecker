@@ -1,0 +1,49 @@
+to inf/try (try very hard)/4/5
+object + to inf/order/5/5
+to inf/go on (=continue with purpose)/5/5
+to inf/decide/5/5
+ing/finish/5/5
+ing/try (try once)/2/5
+to inf/hope/5/5
+ing/forget (I would never forget something)/4/5
+ing/remember (I remember that i did it)/5/5
+ing/go on (=continue)/5/5
+object + to inf/forbid (запретить)/5/5
+ing/consider (рассматривать)/4/5
+object + to inf/expect/2/5
+ing/stop (an action)/5/5
+to inf/pretend (притворяться)/3/5
+ing/suggest/0/5
+ing/can't help (не мочь удеожаться)	/5/5
+ing/keep (on) (держать, продолжать)/5/5
+object + to inf/dare (сметь)/4/5
+object + to inf/enable (включить)/5/5
+ing/spend (time)/5/5
+to inf/refuse/3/5
+ing/can't stand/5/5
+to inf/agree/3/5
+to inf/forget (I forgot something)/5/5
+ing/regret (about past)/2/5
+to inf/stop (moving with purpose)/5/5
+object + to inf/force (заставлять)/4/5
+ing/practise/3/5
+to inf/offer/1/5
+to inf/remember (=don't forget)/4/5
+to inf/seem (казаться)/3/5
+ing/risk/2/5
+object + to inf/invite/4/5
+ing/miss/5/5
+ing/feel like (быть склонным)/5/5
+object + to inf/command/4/5
+object + to inf/inspire/4/5
+object + to inf/get/4/5
+to inf/fail/1/5
+to inf/regret (about something bad)/2/5
+ing/enjoy/5/5
+ing/give up/5/5
+ing/deny/4/5
+object + to inf/encourage (поощрять)/4/5
+object + to inf/ask/5/5
+ing/imagine/5/5
+ing/avoid/5/5
+object + to inf/allow/4/5

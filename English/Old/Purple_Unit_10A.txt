@@ -1,0 +1,55 @@
+a composer/композитор/3/3
+a viola/альт/3/3
+a scriptwriter/сценарист/2/3
+an orchestra/оркестр/3/3
+lyrics/текст песни/3/3
+approximately/примерно/3/3
+a sculptor/скульптор/3/3
+a string quartet/струнный квартет/2/3
+a DJ/диджей/3/3
+beat/бит, такт, бой/3/3
+an artist/художник(а не артист)/3/3
+a chorus/припев, хор/3/3
+a musician/музыкант/3/3
+play music/играть музыку/3/3
+a poet/поэт/3/3
+a choir/хор/3/3
+a symphony/симфония/3/3
+a jazz band/джаз-группа/2/3
+a rapper/рэпер/3/3
+perform music/играть музыку(представлять)/3/3
+an opera singer/оперный певец/3/3
+a drama company/драматическя компания/3/3
+a piece of music/музыкальное произведение/3/3
+set something to music/переложить что-то на музыку/2/3
+harmony/гармония/3/3
+put on music/включить, поставить музыку/2/3
+melody/мелодия/2/3
+compose music/сочинять музыку(как композитор)/2/3
+a conductor/дирижёр/3/3
+in chorus/хором/3/3
+a solo/сольная партия/3/3
+a folk group/фолк-группа/1/3
+a rock band/рок-группа/3/3
+a novelist/романист, прозаик/2/3
+an actress/актриса/3/3
+a haunted house/дом с привидениями/3/3
+a painter/художник/3/3
+an aria/ария/3/3
+on a first-come-first-served basis/по принципу кто первый, тому и достанется/2/3
+a playwright/драматург/2/3
+an actor/актёр/2/3
+make music/делать музыку/3/3
+a cello/виолончель/3/3
+listen to music/слушать музыку/3/3
+write music/писать музыку/3/3
+a buscer/уличный музыкант/3/3
+record music/записывать музыку/3/3
+a singer/певец/3/3
+a spouse/супруг(а), муж, жена/2/3
+auditions/прослушивания/3/3
+download music/скачать музыку/3/3
+a director/режисёр/3/3
+a movement/действие, часть музыкального произведения/3/3
+chords/аккорды/3/3
+a writer/писатель/3/3

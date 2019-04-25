@@ -1,0 +1,17 @@
+in/в/1/2
+but/но/0/2
+pizza/пицца/0/2
+on/на/0/2
+food/еда/0/2
+drawer/тумбочка/0/2
+bed/кровать/0/2
+sandwich/сэндвич/0/2
+table/стол/0/2
+everything/всё/0/2
+sofa/диван/0/2
+under/под/0/2
+salad/салат/0/2
+chair/стул/0/2
+behind/за/0/2
+wardrobe/шкаф/0/2
+milkshake/молочный коктейль/1/2
